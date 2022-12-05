@@ -8,6 +8,10 @@ img {
     height: 70vh;
 }
 
+h1{
+    text-align: center;
+}
+
 h2 {
     text-align: center;
 }
@@ -17,6 +21,22 @@ h2 {
     justify-content: space-around;
 }
 
-.footer{
-     
+footer{
+    text-align: center;
+    background-color: #A6A6A6;
+    color: white;
+    padding: 20px;
+}
+body{
+    background-color: #EDF1F2;
+}
+
+.nav-bar{
+    text-align: center;
+    
+}
+main{
+    margin: 15px;
+    padding: 20px;
+    background-color:#ace0e3;
 }
