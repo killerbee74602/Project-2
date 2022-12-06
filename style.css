@@ -33,10 +33,17 @@ body{
 
 .nav-bar{
     text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: large;
     
 }
 main{
     margin: 15px;
     padding: 20px;
     background-color:#ace0e3;
+}
+
+h2, h3, p, li {
+    font-size: 1.5em;
 }
