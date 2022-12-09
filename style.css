@@ -31,6 +31,7 @@ footer{
     color: white;
     padding: 20px;
 }
+
 body{
     background-color: #EDF1F2;
 }
@@ -39,9 +40,9 @@ body{
     text-align: center;
     display: flex;
     justify-content: space-around;
-    font-size: large;
-    
+    font-size: large;   
 }
+
 main{
     margin: 15px;
     padding: 20px;
